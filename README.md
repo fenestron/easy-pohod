@@ -25,6 +25,14 @@
 - [Google Earth](https://www.google.com/earth/) - 3D карта мира, созданная на основе спутниковых снимков Google
 - [Перевал.Online](https://pereval.online/) - база данных перевалов (с указанием сложности) и отчетов
 - [Slazav](https://slazav.mccme.ru/maps/) - Карты высокого качества
+- [Loadmap](http://loadmap.net/) - наиболее полный набор карт Генштаба по всему миру
+- [EarthExplorer](https://earthexplorer.usgs.gov/) - просмотр космоснимков. Можно искать снимки по датам
+- [Каталог перевалов ТК Вестра](http://westra.ru/passes/) - каталог перевалов ТК «Вестра»
+
+
+Статьи по теме:
+
+- [Подготовка карт к походу и анализ рельефа по космоснимкам. В.С. Кулик, А.В. Сучков](http://geolink-group.com/tourclub/library/mapsprep.pdf)
 
 
 ## Организация 
