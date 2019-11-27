@@ -356,6 +356,7 @@
 ### Готовые списки аптечек
 
 - [Пример аптечки. Горный поход 3 к.с. Кавказ. 10 человек. 14 дней](https://docs.google.com/spreadsheets/d/1sEWGHD3asgDw8Cr_nzt5Ebzl8kxQ1_8RTtYEwvgORjo/edit?usp=sharing)
+- [Западный Кавказ, 2кс, май 2019](aidkit/caucasus-2019-petrov.md)
 
 
 ## Ремнабор
